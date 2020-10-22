@@ -1,11 +1,11 @@
 version: '3.3'
 services:
 	zookeeper:
-    image: wurstmeister/zookeeper
-    ports:
-      - "2181"
-    hostname: zookeeper
-  kafka:
+		image: wurstmeister/zookeeper
+		ports:
+			- "2181"
+		hostname: zookeeper
+	kafka:
 		image: wurstmeister/kafka
 		command: [start-kafka.sh]
 		ports:
@@ -40,7 +40,7 @@ services:
 		expose:
 			# Opens port 3306 on the container
 			-'3306'
-			# Where our data will be persisted
+		# Where our data will be persisted
 		volumes:
 			-my-db:/var/lib/mysql
 # Names our volume
