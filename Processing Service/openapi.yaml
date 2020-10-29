@@ -1,0 +1,55 @@
+openapi: 3.0.0
+info:
+  description: This API provides booking stats
+  version: 1.0.0
+  title: Tennis Club Stats API
+  contact:
+    email: ejoy@my.bcit.ca
+
+paths:
+  /stats:
+    get:
+      summary: Gets the booking stats
+      operationId: app.get_stats
+      description: Gets statistics for court and event bookings
+      responses:
+        '200':
+          description: Successfully returned a list of bookings
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/BookingStats'
+        '400':
+          description: 'Invalid request'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    BookingStats:
+      required:
+        - num_court_bookings
+        - max_num_courts
+        - num_event_bookings
+        - total_hours_booked
+      properties:
+        num_court_bookings:
+          type: integer
+          example: 15544
+        max_num_courts:
+          type: integer
+          example: 12
+        num_event_bookings:
+          type: integer
+          example: 1680
+        total_hours_booked:
+          type: integer
+          example: 1425262
+      type: object

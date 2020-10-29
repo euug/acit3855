@@ -1,0 +1,3 @@
+2020-10-29 12:56:22,469 - basicLogger - INFO - Retrieving court booking at index 2
+2020-10-29 12:56:54,304 - basicLogger - INFO - Retrieving court booking at index 1333
+2020-10-29 12:56:54,488 - basicLogger - ERROR - Could not find court booking at index 1333

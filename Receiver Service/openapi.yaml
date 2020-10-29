@@ -1,0 +1,102 @@
+openapi: 3.0.0
+info:
+  description: This API receives reservation requests from users
+  version: 1.0.0
+  title: Tennis Club API
+  contact:
+    email: ejoy@my.bcit.ca
+paths:
+  /report/court-booking:
+    post:
+      summary: reports a court booking
+      operationId: app.report_court_booking
+      description: Adds a new court booking request to the system
+      responses:
+        '201':
+          description: item created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/CourtBooking'
+        description: Reservation item to add
+  /report/event-booking:
+    post:
+      summary: reports an event booking
+      operationId: app.report_event_booking
+      description: Adds a new event reservation to the system
+      responses:
+        '201':
+          description: item created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/EventBooking'
+        description: Reservation item to add
+
+components:
+  schemas:
+    CourtBooking:
+      required:
+        - member_id
+        - member_id_2
+        - club_id
+        - court_num
+        - booking_time
+        - duration
+        - timestamp
+      properties:
+        member_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        member_id_2:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0853
+        club_id:
+          type: string
+          example: BC019
+        court_num:
+          type: integer
+          example: 2
+        booking_time:
+          type: string
+          format: date-time
+          example: "2020-09-15T09:00:00Z"
+        duration:
+          type: integer
+          example: 1
+        timestamp:
+          type: string
+          format: date-time
+          example: "2020-09-10T09:12:33Z"
+      type: object
+      
+    EventBooking:
+      required:
+        - member_id
+        - club_id
+        - event_id
+        - timestamp
+      properties:
+        member_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        club_id:
+          type: string
+          example: BC019
+        event_id:
+          type: string
+          example: A0045
+        timestamp:
+          type: string
+          format: date-time
+          example: "2020-09-10T09:12:33Z"
+      type: object

@@ -1,0 +1,149 @@
+openapi: 3.0.0
+info:
+  description: This API consumes messages as an event store
+  version: 1.0.0
+  title: Audit API
+  contact:
+    email: ejoy@my.bcit.ca
+paths:
+  /info/court_booking:
+    get:
+      summary: gets court_booking info 
+      operationId: app.get_court_booking_info
+      description: Gets specific court booking from event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets court booking at index
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a court_booking event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/CourtBooking'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+      
+  /info/event_booking:
+    get:
+      summary: gets event_booking info 
+      operationId: app.get_event_booking_info
+      description: Gets specific event booking from event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets event booking at index
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a event_booking event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/EventBooking'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    CourtBooking:
+      required:
+        - member_id
+        - member_id_2
+        - club_id
+        - court_num
+        - booking_time
+        - duration
+        - timestamp
+      properties:
+        member_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        member_id_2:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0853
+        club_id:
+          type: string
+          example: BC019
+        court_num:
+          type: integer
+          example: 2
+        booking_time:
+          type: string
+          format: date-time
+          example: "2020-09-15T09:00:00Z"
+        duration:
+          type: integer
+          example: 1
+        timestamp:
+          type: string
+          format: date-time
+          example: "2020-09-10T09:12:33Z"
+      type: object
+      
+    EventBooking:
+      required:
+        - member_id
+        - club_id
+        - event_id
+        - timestamp
+      properties:
+        member_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        club_id:
+          type: string
+          example: BC019
+        event_id:
+          type: string
+          example: A0045
+        timestamp:
+          type: string
+          format: date-time
+          example: "2020-09-10T09:12:33Z"
+      type: object

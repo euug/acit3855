@@ -1,0 +1,582 @@
+2020-10-15 02:32:11,991 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 02:32:17,046 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 02:32:22,074 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 02:32:27,045 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 02:32:32,048 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:04:41,607 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:04:46,613 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:04:51,620 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:04:56,619 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:01,628 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:06,607 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:11,610 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:16,646 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:21,607 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:26,648 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:31,696 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:36,650 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:41,609 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:46,606 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:51,639 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:05:56,606 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:01,626 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:06,637 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:11,619 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:16,644 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:21,625 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:26,606 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:31,675 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:36,615 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:41,632 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:46,600 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:51,597 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:06:56,598 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:07:08,555 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:19:01,682 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:21:07,762 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:21:12,787 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:30:53,169 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:31:42,165 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:32:00,975 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:33:19,331 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:33:24,369 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:33:29,324 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:36:45,370 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:36:50,381 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:36:55,407 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:37:00,401 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:37:05,387 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:37:10,395 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:41:41,829 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:41:46,857 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:44:58,223 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:47:59,276 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:48:03,324 - basicLogger - ERROR - Could not get new stats
+2020-10-15 10:48:03,325 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 0
+2020-10-15 10:48:04,292 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:49:45,014 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:50:20,986 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:50:25,036 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:50:25,036 - basicLogger - ERROR - Could not get new stats
+2020-10-15 10:50:25,038 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 0
+2020-10-15 10:53:21,145 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:53:25,222 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:53:25,224 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 1
+2020-10-15 10:53:26,159 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:53:30,209 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:53:30,211 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 2
+2020-10-15 10:54:03,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:54:07,524 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:54:07,525 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 3
+2020-10-15 10:54:08,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:54:12,543 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:54:12,544 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 4
+2020-10-15 10:55:09,093 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:55:13,742 - basicLogger - INFO - 0 new court bookings and 225 new event bookings
+2020-10-15 10:55:13,745 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 335
+2020-10-15 10:55:14,157 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:55:19,625 - basicLogger - INFO - 0 new court bookings and 168 new event bookings
+2020-10-15 10:55:19,626 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 582
+2020-10-15 10:59:10,696 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:59:14,779 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:59:14,781 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 583
+2020-10-15 10:59:35,232 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:59:39,892 - basicLogger - INFO - 203 new court bookings and 0 new event bookings
+2020-10-15 10:59:40,271 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:59:44,441 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 10:59:44,442 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 584
+2020-10-15 10:59:45,274 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 10:59:50,780 - basicLogger - INFO - 122 new court bookings and 0 new event bookings
+2020-10-15 11:00:33,889 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:00:39,301 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:00:39,302 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 585
+2020-10-15 11:00:43,876 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:00:48,437 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:00:48,438 - basicLogger - DEBUG - Total number of court bookings: 0, Max number of courts in a club: 0, Total hours booked: 0, Total number of event bookings: 586
+2020-10-15 11:00:48,840 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:00:53,904 - basicLogger - INFO - 224 new court bookings and 0 new event bookings
+2020-10-15 11:01:39,994 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:01:44,862 - basicLogger - INFO - 135 new court bookings and 0 new event bookings
+2020-10-15 11:01:45,124 - basicLogger - DEBUG - Total number of court bookings: 135, Max number of courts in a club: 2, Total hours booked: 135, Total number of event bookings: 587
+2020-10-15 11:01:49,969 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:01:54,327 - basicLogger - INFO - 120 new court bookings and 0 new event bookings
+2020-10-15 11:01:54,857 - basicLogger - DEBUG - Total number of court bookings: 255, Max number of courts in a club: 2, Total hours booked: 255, Total number of event bookings: 588
+2020-10-15 11:02:24,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:02:29,340 - basicLogger - INFO - 193 new court bookings and 0 new event bookings
+2020-10-15 11:02:31,902 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 589
+2020-10-15 11:04:11,318 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:15,392 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:15,393 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 590
+2020-10-15 11:04:15,437 - basicLogger - INFO - Start GET stats request.
+2020-10-15 11:04:15,438 - basicLogger - DEBUG - Stats received: {'num_court_bookings': 448, 'max_num_courts': 4, 'total_hours_booked': 641, 'num_event_bookings': 590}
+2020-10-15 11:04:15,439 - basicLogger - INFO - Request complete
+2020-10-15 11:04:16,332 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:19,237 - basicLogger - INFO - Start GET stats request.
+2020-10-15 11:04:19,238 - basicLogger - DEBUG - Stats received: {'num_court_bookings': 448, 'max_num_courts': 4, 'total_hours_booked': 641, 'num_event_bookings': 590}
+2020-10-15 11:04:19,239 - basicLogger - INFO - Request complete
+2020-10-15 11:04:20,409 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:20,411 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 591
+2020-10-15 11:04:21,333 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:25,417 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:25,419 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 592
+2020-10-15 11:04:26,327 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:30,396 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:30,398 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 593
+2020-10-15 11:04:31,317 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:35,409 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:35,412 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 594
+2020-10-15 11:04:36,316 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:40,354 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:40,356 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 595
+2020-10-15 11:04:41,319 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:45,368 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:45,370 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 596
+2020-10-15 11:04:46,322 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 11:04:50,373 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 11:04:50,374 - basicLogger - DEBUG - Total number of court bookings: 448, Max number of courts in a club: 4, Total hours booked: 641, Total number of event bookings: 597
+2020-10-15 14:29:52,597 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:29:56,800 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:29:57,611 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:30:01,747 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:30:58,294 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:31:02,451 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:31:03,296 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:31:07,388 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:23,237 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:27,305 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:28,255 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:32,441 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:33,246 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:37,316 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:38,253 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:42,375 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:43,237 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:47,345 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:48,254 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:52,401 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:32:53,250 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:32:57,332 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:34:15,810 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:34:19,933 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:34:20,832 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:34:24,931 - basicLogger - ERROR - Could not get new stats
+2020-10-15 14:35:32,049 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:35:37,091 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:35:37,113 - basicLogger - DEBUG - Total number of court bookings: 5249, Max number of courts in a club: 4, Total hours booked: 6642, Total number of event bookings: 5873
+2020-10-15 14:35:42,028 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:35:46,942 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:35:46,960 - basicLogger - DEBUG - Total number of court bookings: 10050, Max number of courts in a club: 4, Total hours booked: 12643, Total number of event bookings: 11149
+2020-10-15 14:35:47,032 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:35:51,999 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:35:52,018 - basicLogger - DEBUG - Total number of court bookings: 14851, Max number of courts in a club: 4, Total hours booked: 18644, Total number of event bookings: 16425
+2020-10-15 14:35:52,037 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:35:56,998 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:35:57,017 - basicLogger - DEBUG - Total number of court bookings: 19652, Max number of courts in a club: 4, Total hours booked: 24645, Total number of event bookings: 21701
+2020-10-15 14:35:57,039 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:02,107 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:36:02,139 - basicLogger - DEBUG - Total number of court bookings: 24453, Max number of courts in a club: 4, Total hours booked: 30646, Total number of event bookings: 26977
+2020-10-15 14:36:07,030 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:11,946 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:36:11,965 - basicLogger - DEBUG - Total number of court bookings: 29254, Max number of courts in a club: 4, Total hours booked: 36647, Total number of event bookings: 32253
+2020-10-15 14:36:12,027 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:17,114 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:36:17,133 - basicLogger - DEBUG - Total number of court bookings: 34055, Max number of courts in a club: 4, Total hours booked: 42648, Total number of event bookings: 37529
+2020-10-15 14:38:31,028 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:36,103 - basicLogger - INFO - 4801 new court bookings and 3600 new event bookings
+2020-10-15 14:38:36,122 - basicLogger - DEBUG - Total number of court bookings: 38856, Max number of courts in a club: 4, Total hours booked: 48649, Total number of event bookings: 42805
+2020-10-15 14:38:41,040 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:45,092 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:38:45,094 - basicLogger - DEBUG - Total number of court bookings: 38856, Max number of courts in a club: 4, Total hours booked: 48649, Total number of event bookings: 42806
+2020-10-15 14:38:46,049 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:50,111 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:38:50,113 - basicLogger - DEBUG - Total number of court bookings: 38856, Max number of courts in a club: 4, Total hours booked: 48649, Total number of event bookings: 42807
+2020-10-15 14:38:51,030 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:55,124 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:38:55,127 - basicLogger - DEBUG - Total number of court bookings: 38856, Max number of courts in a club: 4, Total hours booked: 48649, Total number of event bookings: 42808
+2020-10-15 14:41:27,734 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:41:32,325 - basicLogger - INFO - 400 new court bookings and 0 new event bookings
+2020-10-15 14:41:32,337 - basicLogger - DEBUG - Total number of court bookings: 39256, Max number of courts in a club: 4, Total hours booked: 49449, Total number of event bookings: 42809
+2020-10-15 14:41:32,765 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:41:43,513 - basicLogger - INFO - 221 new court bookings and 0 new event bookings
+2020-10-15 14:41:43,516 - basicLogger - DEBUG - Total number of court bookings: 39477, Max number of courts in a club: 4, Total hours booked: 49891, Total number of event bookings: 42810
+2020-10-15 14:41:47,765 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:41:51,943 - basicLogger - INFO - 375 new court bookings and 0 new event bookings
+2020-10-15 14:41:51,947 - basicLogger - DEBUG - Total number of court bookings: 39852, Max number of courts in a club: 4, Total hours booked: 50641, Total number of event bookings: 42811
+2020-10-15 14:41:52,736 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:41:56,799 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:41:56,800 - basicLogger - DEBUG - Total number of court bookings: 39852, Max number of courts in a club: 4, Total hours booked: 50641, Total number of event bookings: 42812
+2020-10-15 14:41:57,751 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:01,886 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:42:01,888 - basicLogger - DEBUG - Total number of court bookings: 39852, Max number of courts in a club: 4, Total hours booked: 50641, Total number of event bookings: 42813
+2020-10-15 14:42:02,737 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:06,828 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:42:06,829 - basicLogger - DEBUG - Total number of court bookings: 39852, Max number of courts in a club: 4, Total hours booked: 50641, Total number of event bookings: 42814
+2020-10-15 14:42:07,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:11,855 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:42:11,858 - basicLogger - DEBUG - Total number of court bookings: 39852, Max number of courts in a club: 4, Total hours booked: 50641, Total number of event bookings: 42815
+2020-10-15 14:42:12,755 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:19,418 - basicLogger - INFO - 59 new court bookings and 0 new event bookings
+2020-10-15 14:42:19,419 - basicLogger - DEBUG - Total number of court bookings: 39911, Max number of courts in a club: 4, Total hours booked: 50759, Total number of event bookings: 42816
+2020-10-15 14:42:22,816 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:27,264 - basicLogger - INFO - 400 new court bookings and 0 new event bookings
+2020-10-15 14:42:27,267 - basicLogger - DEBUG - Total number of court bookings: 40311, Max number of courts in a club: 4, Total hours booked: 51559, Total number of event bookings: 42817
+2020-10-15 14:42:27,754 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:31,879 - basicLogger - INFO - 49 new court bookings and 0 new event bookings
+2020-10-15 14:42:31,880 - basicLogger - DEBUG - Total number of court bookings: 40360, Max number of courts in a club: 4, Total hours booked: 51657, Total number of event bookings: 42818
+2020-10-15 14:42:32,736 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:37,056 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:42:37,060 - basicLogger - DEBUG - Total number of court bookings: 40360, Max number of courts in a club: 4, Total hours booked: 51657, Total number of event bookings: 42819
+2020-10-15 14:42:37,736 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:47,267 - basicLogger - INFO - 245 new court bookings and 0 new event bookings
+2020-10-15 14:42:47,269 - basicLogger - DEBUG - Total number of court bookings: 40605, Max number of courts in a club: 12, Total hours booked: 52147, Total number of event bookings: 42820
+2020-10-15 14:42:47,768 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:52,033 - basicLogger - INFO - 391 new court bookings and 0 new event bookings
+2020-10-15 14:42:52,036 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42821
+2020-10-15 14:42:52,750 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:42:56,805 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:42:56,806 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42822
+2020-10-15 14:42:57,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:01,858 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:01,861 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42823
+2020-10-15 14:43:02,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:06,806 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:06,807 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42824
+2020-10-15 14:43:07,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:09,735 - basicLogger - INFO - Start GET stats request.
+2020-10-15 14:43:09,736 - basicLogger - DEBUG - Stats received: {'num_court_bookings': 40996, 'max_num_courts': 12, 'total_hours_booked': 52929, 'num_event_bookings': 42824, 'timestamp': '2020-10-15T14:43:02Z'}
+2020-10-15 14:43:09,737 - basicLogger - INFO - Request complete
+2020-10-15 14:43:11,812 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:11,814 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42825
+2020-10-15 14:43:12,750 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:16,847 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:16,853 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42826
+2020-10-15 14:43:17,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:21,805 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:21,806 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42827
+2020-10-15 14:43:22,736 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:26,803 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:26,804 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42828
+2020-10-15 14:43:27,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:31,808 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:31,811 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42829
+2020-10-15 14:43:32,734 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:36,811 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:36,813 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42830
+2020-10-15 14:43:37,736 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:41,814 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:41,815 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42831
+2020-10-15 14:43:42,735 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:43:46,842 - basicLogger - INFO - 0 new court bookings and 0 new event bookings
+2020-10-15 14:43:46,856 - basicLogger - DEBUG - Total number of court bookings: 40996, Max number of courts in a club: 12, Total hours booked: 52929, Total number of event bookings: 42832
+2020-10-22 01:21:37,446 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:21:42,472 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:21:47,468 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:21:52,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:21:57,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:02,506 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:07,478 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:12,491 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:17,496 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:22,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:27,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:32,476 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:37,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:42,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:47,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:52,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:22:57,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:02,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:07,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:12,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:17,472 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:22,484 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:27,484 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:32,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:37,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:42,470 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:47,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:52,471 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:23:57,485 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:02,486 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:07,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:12,471 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:17,473 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:22,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:27,493 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:32,490 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:37,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:42,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:47,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:52,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:24:57,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:02,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:07,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:12,474 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:17,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:22,454 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:27,442 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:32,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:37,442 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:42,476 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:47,468 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:52,483 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:25:57,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:02,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:07,469 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:12,490 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:17,473 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:22,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:27,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:32,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:37,439 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:42,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:47,445 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:52,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:26:57,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:02,473 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:07,454 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:12,473 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:17,467 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:22,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:27,446 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:32,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:37,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:42,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:47,472 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:52,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:27:57,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:02,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:07,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:12,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:17,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:22,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:27,484 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:32,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:37,493 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:42,479 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:47,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:52,465 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:28:57,476 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:02,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:07,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:12,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:17,482 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:22,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:27,441 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:32,455 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:37,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:42,471 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:47,446 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:52,476 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:29:57,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:02,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:07,455 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:12,434 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:17,441 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:22,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:27,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:32,471 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:37,483 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:42,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:47,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:52,478 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:30:57,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:02,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:07,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:12,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:17,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:22,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:27,482 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:32,485 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:37,493 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:42,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:47,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:52,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:31:57,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:02,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:07,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:12,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:17,465 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:22,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:27,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:32,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:37,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:42,486 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:47,478 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:52,474 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:32:57,475 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:02,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:07,484 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:12,456 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:17,440 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:22,436 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:27,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:32,475 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:37,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:42,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:47,456 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:52,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:33:57,491 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:02,469 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:07,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:12,457 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:17,491 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:22,473 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:27,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:32,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:37,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:42,448 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:47,468 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:52,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:34:57,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:02,448 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:07,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:12,457 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:17,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:22,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:27,442 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:32,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:37,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:42,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:47,476 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:52,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:35:57,449 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:02,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:07,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:12,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:17,470 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:22,485 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:27,484 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:32,468 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:37,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:42,456 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:47,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:52,445 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:36:57,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:02,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:07,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:12,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:17,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:22,477 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:27,465 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:32,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:37,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:42,457 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:47,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:52,489 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:37:57,479 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:02,486 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:07,471 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:12,486 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:17,470 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:22,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:27,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:32,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:37,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:42,477 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:47,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:52,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:38:57,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:02,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:07,485 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:12,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:17,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:22,478 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:27,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:32,454 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:37,450 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:42,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:47,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:52,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:39:57,475 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:02,457 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:07,457 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:12,473 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:17,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:22,469 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:27,470 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:32,480 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:37,482 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:42,493 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:47,467 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:52,457 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:40:57,485 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:02,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:07,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:12,479 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:17,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:22,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:27,465 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:32,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:37,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:42,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:47,474 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:52,485 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:41:57,472 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:02,469 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:07,455 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:12,478 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:17,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:22,465 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:27,475 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:32,454 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:37,482 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:42,477 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:47,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:52,442 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:42:57,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:02,470 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:07,474 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:12,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:17,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:22,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:27,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:32,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:37,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:42,472 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:47,469 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:52,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:43:57,478 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:02,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:07,467 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:12,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:17,454 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:22,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:27,470 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:32,481 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:37,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:42,448 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:47,469 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:52,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:44:57,447 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:02,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:07,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:12,448 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:17,448 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:22,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:27,474 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:32,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:37,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:42,460 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:47,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:52,461 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:45:57,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:02,452 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:07,445 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:12,462 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:17,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:22,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:27,453 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:32,451 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:37,507 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:42,490 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:47,446 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:52,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:46:57,474 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:02,459 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:07,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:12,476 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:17,458 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:22,442 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:27,442 - basicLogger - INFO - Start Periodic Processing
+2020-10-22 01:47:32,450 - basicLogger - INFO - Start Periodic Processing
